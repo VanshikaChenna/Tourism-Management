@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1641995344 source:c:\users\vanshika\desktop\tourism management\main.c
-	<conio.h>
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
